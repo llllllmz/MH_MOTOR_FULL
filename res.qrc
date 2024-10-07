@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/add_normal.png</file>
+        <file>res/add_press.png</file>
+        <file>res/bg3.png</file>
+        <file>res/normal.png</file>
+        <file>res/overlay.png</file>
+        <file>res/sub_normal.png</file>
+        <file>res/sub_press.png</file>
+        <file>res/warning.png</file>
+        <file>res/needle.png</file>
+    </qresource>
+</RCC>
